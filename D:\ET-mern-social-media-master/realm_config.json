@@ -1,0 +1,8 @@
+{
+    "app_id": "etbera-1-izgic",
+    "config_version": 20210101,
+    "name": "ETBERA-1",
+    "location": "US-VA",
+    "provider_region": "aws-us-east-1",
+    "deployment_model": "GLOBAL"
+}
